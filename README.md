@@ -1,4 +1,4 @@
-# [Telegram](https://telegram.org/) Meal Bot - 안재범
+# [Telegram](https://telegram.org/) Meal Bot_2.0 - 안재범
 
 ### License
 
@@ -6,7 +6,7 @@
 
 ### Download
 
-
+* [Download](https://github.com/NewPremium/Telegram_mealbot_KDMS_2.0/archive/master.zip)
 
 ### 이전과 달라진점
 
