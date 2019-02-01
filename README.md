@@ -14,14 +14,15 @@
 
 ### 설명
 
-* 이 프로그램은 Python3 를 기반으로 만들어진 [Telegram](https://telegram.org/) 급식봇 입니다.
+* 이 프로그램은 Python3 을(를) 기반으로 만들어진 [Telegram](https://telegram.org/) 급식봇 입니다.
 * 리눅스로 실행하셔야 정상작동 합니다.
 * 급식 파서의 출처는 [이곳](https://github.com/M4ndU/school_meal_parser_python) 입니다.
     
 
 ### 미리보기
 
-* [경덕중학교 급식](https://t.me/kdmsmealbot) - 먼저 [Telegram](https://telegram.org/) 을 설치해 주세요.
+* [경덕중학교 급식](https://t.me/kdmsmealbot) - 먼저 [Telegram](https://telegram.org/) 을(를) 설치해 주세요.
+* [중앙고등학교 급식](https://t.me/jungangbot) - 먼저 [Telegram](https://telegram.org/) 을(를) 설치해 주세요.
 
 ### 사용법
 
