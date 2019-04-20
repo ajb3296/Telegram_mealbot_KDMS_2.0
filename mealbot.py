@@ -111,7 +111,8 @@ def get_message(bot, update) :
         file.close()
 
         #오늘 급식 다운로드
-        meal = get_diet(2, "%s.%s.%s"%(now.year,now.month,now.day), n)
+        to = date.today()
+        meal = get_diet(2, to.strftime('%Y.%m.%d'), n)
         if meal==" ":
             meal1="급식이 없습니다."
         else:
@@ -409,7 +410,8 @@ def get_message(bot, update) :
         file.close()
 
         #오늘 급식 다운로드
-        meal = get_diet(2, "%s.%s.%s"%(now.year,now.month,now.day), n)
+        to = date.today()
+        meal = get_diet(2, to.strftime('%Y.%m.%d'), n)
         if meal==" ":
             meal1="급식이 없습니다."
         else:
