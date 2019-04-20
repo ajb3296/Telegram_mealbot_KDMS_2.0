@@ -70,7 +70,7 @@ def help_command(bot, update) :
 
 #일반 메시지
 def get_message(bot, update) :
-
+    today = date.today()
     #로그 용량 확인및 초기화 (로그파일이 200GB 이상일때 초기화) - mealbot.py 파일과 같은폴더에 건의log.txt 파일을 두어야 함
     log_byte = os.path.getsize("건의log.txt")
     filesize_megabyte = log_byte / (1024.0 ** 2)
