@@ -1,5 +1,10 @@
 # [Telegram](https://telegram.org/) Meal Bot_2.0 - 안재범
 
+## --- API 변경안내 ---
+
+새 API로 변경되어서 이전 API 더 못사용 한다는데 설명봐도 못알아먹어서...
+업데이트는 언젠간 할겁니다. 못할수도 있구요
+
 ### License
 
   * 이 프로그램은 [GNU General Public License](https://www.gnu.org/licenses/licenses.html) 가 적용됩니다.
